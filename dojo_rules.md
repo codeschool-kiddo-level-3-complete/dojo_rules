@@ -9,3 +9,4 @@ Dojo Rules
 * Git is a pain
 * Codeschool is also a pain
 * argh!
+* double argh!
