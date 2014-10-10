@@ -8,3 +8,4 @@ Dojo Rules
 * Most Sensei's should be respected
 * Git is a pain
 * Codeschool is also a pain
+* argh!
