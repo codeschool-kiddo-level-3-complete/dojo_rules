@@ -1,0 +1,1 @@
+- I hate deployment without automation and CI
